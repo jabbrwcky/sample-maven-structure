@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 10.5.2 for binding GitHub repository
+This project demonstrates a setup for multi-module projects with Maven that scales well and 
+that is compatible both with IDEs and continuous integration systems.
